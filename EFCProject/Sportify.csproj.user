@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Btn\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CrossFit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FitnessCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TextBoxes\RoundedTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SportCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

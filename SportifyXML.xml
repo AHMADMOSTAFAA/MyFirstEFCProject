@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2025-02-13T00:00:00.000Z" agent="ChatGPT" version="16.0.0" editor="www.diagrams.net">
+  <diagram id="ERD-Diagram" name="ERD">
+    <mxGraphModel dx="1400" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="800" math="0" shadow="0">
+      <root>
+        <!-- Default Root -->
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <!-- PlaceOfInterest Table -->
+        <mxCell id="e1" value="PlaceOfInterest&#xa;─────────────&#xa;PlaceID (PK)&#xa;Name&#xa;Address&#xa;SportType&#xa;Coordinates" style="swimlane;startSize=20;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="220" height="120" as="geometry"/>
+        </mxCell>
+        <!-- User Table -->
+        <mxCell id="e2" value="User&#xa;─────────────&#xa;UserID (PK)&#xa;Name&#xa;Email&#xa;Password&#xa;Location (multivalue)" style="swimlane;startSize=20;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="220" height="140" as="geometry"/>
+        </mxCell>
+        <!-- Admin Table -->
+        <mxCell id="e3" value="Admin&#xa;─────────────&#xa;AdminID (PK)&#xa;Name&#xa;Email&#xa;Password" style="swimlane;startSize=20;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="220" height="100" as="geometry"/>
+        </mxCell>
+        <!-- Shop Table -->
+        <mxCell id="e4" value="Shop&#xa;─────────────&#xa;ShopID (PK)&#xa;ShopName&#xa;(PlaceID/VendorID)" style="swimlane;startSize=20;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="220" height="100" as="geometry"/>
+        </mxCell>
+        <!-- Product Table -->
+        <mxCell id="e5" value="Product&#xa;─────────────&#xa;ProductID (PK)&#xa;Name&#xa;Description&#xa;Price" style="swimlane;startSize=20;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="220" height="120" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: Many-to-Many between User and PlaceOfInterest -->
+        <mxCell id="edge1" value="M:N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;startArrow=block;strokeColor=#000000;" edge="1" parent="1" source="e2" target="e1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: Admin manages PlaceOfInterest -->
+        <mxCell id="edge2" value="manages" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;strokeColor=#000000;" edge="1" parent="1" source="e3" target="e1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: Admin manages User -->
+        <mxCell id="edge3" value="manages" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;strokeColor=#000000;" edge="1" parent="1" source="e3" target="e2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: PlaceOfInterest has Shop -->
+        <mxCell id="edge4" value="has shop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;strokeColor=#000000;" edge="1" parent="1" source="e1" target="e4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: User owns Shop -->
+        <mxCell id="edge5" value="owns shop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;strokeColor=#000000;" edge="1" parent="1" source="e2" target="e4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <!-- Relationship: Shop contains Product -->
+        <mxCell id="edge6" value="contains" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;strokeColor=#000000;" edge="1" parent="1" source="e4" target="e5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

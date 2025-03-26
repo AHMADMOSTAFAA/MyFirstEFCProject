@@ -1,0 +1,14 @@
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\bin\Debug\net9.0\Sportify.DAL.deps.json
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\bin\Debug\net9.0\Sportify.DAL.runtimeconfig.json
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\bin\Debug\net9.0\Sportify.DAL.dll
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\bin\Debug\net9.0\Sportify.DAL.pdb
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.csproj.AssemblyReference.cache
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.AssemblyInfoInputs.cache
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.AssemblyInfo.cs
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.dll
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\refint\Sportify.DAL.dll
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.pdb
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\Sportify.DAL.genruntimeconfig.cache
+C:\Users\DR\Desktop\ITI\EFC\EFCProject\Sportify.DAL\obj\Debug\net9.0\ref\Sportify.DAL.dll

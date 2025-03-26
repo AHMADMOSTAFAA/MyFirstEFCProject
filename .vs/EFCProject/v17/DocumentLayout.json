@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\adminp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\adminp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\ownershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\ownershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\ownershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\ownershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B7C8C-B9EF-4FD6-A138-A9A833592260}|Sportify.BL\\Sportify.BL.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\sportify.bl\\ownerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B7C8C-B9EF-4FD6-A138-A9A833592260}|Sportify.BL\\Sportify.BL.csproj|solutionrelative:sportify.bl\\ownerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\crossfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\crossfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\sportify.dal\\entities\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|solutionrelative:sportify.dal\\entities\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\crossfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\crossfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\sportify.dal\\entities\\userplaceofintrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|solutionrelative:sportify.dal\\entities\\userplaceofintrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\usercart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\usercart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\fitnesscat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\fitnesscat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\sportcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\sportcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\fitnesscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\fitnesscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\crossfit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\crossfit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\adminp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\adminp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\efcproject\\adminp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\adminp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\ownershop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\ownershop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./Sportify/True/SqlTable/dbo.placeOfInterests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\efcproject\\fitnesscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7ED30-8CA6-42F9-8FFA-ED6F4587FD7A}|EFCProject\\Sportify.csproj|solutionrelative:efcproject\\fitnesscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\sportify.dal\\migrations\\20250225072613_removed ranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|solutionrelative:sportify.dal\\migrations\\20250225072613_removed ranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|c:\\users\\dr\\desktop\\iti\\efc\\efcproject\\sportify.dal\\migrations\\20250228190713_no action to userplace table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744068F3-EAA5-4C2E-BB3A-7DB26966D9F4}|Sportify.DAL\\Sportify.DAL.csproj|solutionrelative:sportify.dal\\migrations\\20250228190713_no action to userplace table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerShop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.cs",
+              "RelativeDocumentMoniker": "EFCProject\\OwnerShop.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.cs [Design]",
+              "RelativeToolTip": "EFCProject\\OwnerShop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:57:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerShop.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.cs",
+              "RelativeDocumentMoniker": "EFCProject\\OwnerShop.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.cs",
+              "RelativeToolTip": "EFCProject\\OwnerShop.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:24:19.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Owner.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Owner.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Owner.cs",
+              "RelativeToolTip": "EFCProject\\Owner.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:18:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminP.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.cs",
+              "RelativeDocumentMoniker": "EFCProject\\AdminP.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.cs",
+              "RelativeToolTip": "EFCProject\\AdminP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:58:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Admin.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Admin.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Admin.cs",
+              "RelativeToolTip": "EFCProject\\Admin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:10:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OwnerUI.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.BL\\OwnerUI.cs",
+              "RelativeDocumentMoniker": "Sportify.BL\\OwnerUI.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.BL\\OwnerUI.cs",
+              "RelativeToolTip": "Sportify.BL\\OwnerUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:04:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Owner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Owner.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Owner.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Owner.cs [Design]",
+              "RelativeToolTip": "EFCProject\\Owner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:42:22.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Admin.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Admin.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Admin.cs [Design]",
+              "RelativeToolTip": "EFCProject\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:37:04.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrossFit.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.cs",
+              "RelativeDocumentMoniker": "EFCProject\\CrossFit.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.cs",
+              "RelativeToolTip": "EFCProject\\CrossFit.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:23:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserUI.cs",
+              "RelativeDocumentMoniker": "EFCProject\\UserUI.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserUI.cs [Design]",
+              "RelativeToolTip": "EFCProject\\UserUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:24:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Register.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Register.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Register.cs [Design]",
+              "RelativeToolTip": "EFCProject\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:30:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250228190713_no action to userplace table.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Migrations\\20250228190713_no action to userplace table.cs",
+              "RelativeDocumentMoniker": "Sportify.DAL\\Migrations\\20250228190713_no action to userplace table.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Migrations\\20250228190713_no action to userplace table.cs",
+              "RelativeToolTip": "Sportify.DAL\\Migrations\\20250228190713_no action to userplace table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:07:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserUI.cs",
+              "RelativeDocumentMoniker": "EFCProject\\UserUI.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserUI.cs",
+              "RelativeToolTip": "EFCProject\\UserUI.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:38:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Entities\\DBContext.cs",
+              "RelativeDocumentMoniker": "Sportify.DAL\\Entities\\DBContext.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Entities\\DBContext.cs",
+              "RelativeToolTip": "Sportify.DAL\\Entities\\DBContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:45:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "EFCProject\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\LoadingForm.cs",
+              "RelativeToolTip": "EFCProject\\LoadingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:28:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrossFit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.cs",
+              "RelativeDocumentMoniker": "EFCProject\\CrossFit.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.cs [Design]",
+              "RelativeToolTip": "EFCProject\\CrossFit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:33:23.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserPlaceOfIntrest.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Entities\\UserPlaceOfIntrest.cs",
+              "RelativeDocumentMoniker": "Sportify.DAL\\Entities\\UserPlaceOfIntrest.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Entities\\UserPlaceOfIntrest.cs",
+              "RelativeToolTip": "Sportify.DAL\\Entities\\UserPlaceOfIntrest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:19:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Login.cs",
+              "RelativeDocumentMoniker": "EFCProject\\Login.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\Login.cs [Design]",
+              "RelativeToolTip": "EFCProject\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:30:17.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserCart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.Designer.cs",
+              "RelativeDocumentMoniker": "EFCProject\\UserCart.Designer.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.Designer.cs",
+              "RelativeToolTip": "EFCProject\\UserCart.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAD4vzsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:47:15.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserCart.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.cs",
+              "RelativeDocumentMoniker": "EFCProject\\UserCart.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.cs",
+              "RelativeToolTip": "EFCProject\\UserCart.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:40:47.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FitnessCat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.Designer.cs",
+              "RelativeDocumentMoniker": "EFCProject\\FitnessCat.Designer.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.Designer.cs",
+              "RelativeToolTip": "EFCProject\\FitnessCat.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:47:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserCart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.cs",
+              "RelativeDocumentMoniker": "EFCProject\\UserCart.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\UserCart.cs [Design]",
+              "RelativeToolTip": "EFCProject\\UserCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:39:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SportCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\SportCategory.cs",
+              "RelativeDocumentMoniker": "EFCProject\\SportCategory.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\SportCategory.cs [Design]",
+              "RelativeToolTip": "EFCProject\\SportCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:39:43.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FitnessCat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.cs",
+              "RelativeDocumentMoniker": "EFCProject\\FitnessCat.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.cs [Design]",
+              "RelativeToolTip": "EFCProject\\FitnessCat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:29:43.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrossFit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.Designer.cs",
+              "RelativeDocumentMoniker": "EFCProject\\CrossFit.Designer.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\CrossFit.Designer.cs",
+              "RelativeToolTip": "EFCProject\\CrossFit.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:30:50.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminS.cs",
+              "RelativeDocumentMoniker": "EFCProject\\AdminS.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminS.cs [Design]",
+              "RelativeToolTip": "EFCProject\\AdminS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:20:22.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.Designer.cs",
+              "RelativeDocumentMoniker": "EFCProject\\AdminP.Designer.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.Designer.cs",
+              "RelativeToolTip": "EFCProject\\AdminP.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:58:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.cs",
+              "RelativeDocumentMoniker": "EFCProject\\AdminP.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\AdminP.cs [Design]",
+              "RelativeToolTip": "EFCProject\\AdminP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:58:22.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OwnerShop.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.Designer.cs",
+              "RelativeDocumentMoniker": "EFCProject\\OwnerShop.Designer.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\OwnerShop.Designer.cs",
+              "RelativeToolTip": "EFCProject\\OwnerShop.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:14:13.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.placeOfInterests.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./Sportify/True/SqlTable/dbo.placeOfInterests.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./Sportify/True/SqlTable/dbo.placeOfInterests.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-25T05:04:23.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250225072613_removed ranges.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Migrations\\20250225072613_removed ranges.cs",
+              "RelativeDocumentMoniker": "Sportify.DAL\\Migrations\\20250225072613_removed ranges.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\Sportify.DAL\\Migrations\\20250225072613_removed ranges.cs",
+              "RelativeToolTip": "Sportify.DAL\\Migrations\\20250225072613_removed ranges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:26:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FitnessCat.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.cs",
+              "RelativeDocumentMoniker": "EFCProject\\FitnessCat.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\EFCProject\\FitnessCat.cs",
+              "RelativeToolTip": "EFCProject\\FitnessCat.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:39:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\EFC\\EFCProject\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-25T05:55:04.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
