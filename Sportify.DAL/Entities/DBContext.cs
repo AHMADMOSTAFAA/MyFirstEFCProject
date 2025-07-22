@@ -16,7 +16,7 @@ namespace Sportify.DAL.Entities
         public DbSet<Shop> shops{get;set;}
         public DbSet<UserProduct> UserProducts { get; set; } 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Server=LAPTOP-O4QV4AAI;Database=Sportify;Trusted_Connection=True;Encrypt=False");
+            => optionsBuilder.UseSqlServer("Server=.;Database=Sportify;Trusted_Connection=True;Encrypt=False");
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<UserPlaceOfIntrest>()
